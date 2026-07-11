@@ -110,9 +110,9 @@ For help and support:
 
 ## 📊 Project Statistics
 
-Views counter enabled on **19 Oct 2024 Sat**
+Views counter reset on **11 July 2026 Sat**
 
-[![Profile Visitors](https://u8views.com/api/v1/github/profiles/150267024/views/day-week-month-total-count.svg)](https://u8views.com/github/ES-UNIVERSE)
+[![Profile Visitors](https://u8views.com/api/v1/github/profiles/262728399/views/day-week-month-total-count.svg)](https://u8views.com/github/Andro-Coder-07)
 
 **Android 🐁** - Device Usage Management & Parental Safety and More 🤫
 
